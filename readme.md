@@ -1,6 +1,6 @@
 # Two factor authentication using speakeasy
 
-## Into
+## Intro
 One of the ways through which 2FA is implemented is using the speakeasy library.
 
 The Speakeasy library provides two-factor authentication using a One-Time Password (OTP). The library provides an additional layer of security to an application’s standard authentication process.
